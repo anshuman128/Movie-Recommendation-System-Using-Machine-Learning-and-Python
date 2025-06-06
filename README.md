@@ -3,7 +3,9 @@ An intelligent ML-powered recommendation engine that delivers highly accurate mo
 📈 Achieved 90% accuracy in predicting user preferences — optimized with real-world data and scalable ML design.
 
 📊 Dataset Overview
-📁 Source: Kaggle – MovieLens Dataset
+📁 Source: Kaggle – MovieLens Dataset.
+
+colab link : https://colab.research.google.com/drive/1iim0ghDULI-9lXR9Vny3yJgYrySJODHk?usp=sharing
 
 👥 Records: 2,000+ user ratings across a wide range of movies
 
